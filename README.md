@@ -44,6 +44,4 @@ npm run dev
 - `app/store/authStore.js` - Authentication state
 - `app/utils/api.js` - API utility functions
 
-## Note
 
-I know the project isn't fully completed, but the 3 days wasn't enough and I didn't understand the API correctly. I sent you a message on WhatsApp and didn't get a response, so I tried to figure out what I can and explain it in my way.
